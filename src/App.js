@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Canvas } from 'react-three-fiber'
 import Header from './components/header'
 import { Html } from 'drei'
